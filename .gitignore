@@ -1,3 +1,8 @@
+# auto-generated gitignore from GitHub template
+
+# my files
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
