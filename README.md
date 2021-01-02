@@ -47,7 +47,7 @@ Consider the problem of predicting for each customer a label that defines if (s)
  - KNN
  - Naive Bayesian
 
-
+&nbsp;  
 ### Task 4: Sequential Pattern mining
 
 Model the customer as a sequence of baskets and apply the sequential pattern mining algorithm.
