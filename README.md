@@ -48,12 +48,17 @@ Consider the problem of predicting for each customer a label that defines if (s)
  - Naive Bayesian
 
 &nbsp;  
-### Task 4: Sequential Pattern mining
+### Task 4: Sequential Pattern Mining
 
 Model the customer as a sequence of baskets and apply the sequential pattern mining algorithm.
 
-
 &nbsp;  
+
+### (Our) Additional Task: Association Rules Mining
+
+Extra task about frequent patterns and association rules analysis, exploiting __Apriori__ algorithm
+
+&nbsp;
 
 ## Contributors ✨
 
