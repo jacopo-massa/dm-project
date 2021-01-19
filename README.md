@@ -17,6 +17,11 @@ pip install -r requirements.txt
 ```
 &nbsp;
 
+## Presentations
+In the subfolders `presentations` you can find slides we used to present [our project](https://github.com/jacopo-massa/dm-project/blob/main/presentations/project%20presentation.pptx) and discuss about [Evaluation of Explainable AI](https://github.com/jacopo-massa/dm-project/blob/main/presentations/Evaluating%20XAI%20-%20Paper%20Presentation.pptx) ([link](https://doi.org/10.1016/j.artint.2020.103404) to the original paper)
+
+&nbsp;
+
 ## Tasks  ✔️
 
 ### Task 1 - Data Understanding and Preparation 
